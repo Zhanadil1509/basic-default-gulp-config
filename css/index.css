@@ -1,0 +1,10 @@
+body, h2, p {
+  margin: 0;
+  padding: 0; }
+
+.main {
+  background: #008;
+  height: 100vh; }
+  .main_title {
+    text-transform: uppercase;
+    color: #FFFFFF; }
